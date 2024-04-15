@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wdth,wght@0,75..100,400..700;1,75..100,400..700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wdth,wght@0,75..100,400..700;1,75..100,400..700&family=Lobster&display=swap");
+
+/* font-family: "Cabin", sans-serif;*/
+/* font-family: "Lobster", sans-serif;*/
+
+body {
+  font-family: "Cabin", sans-serif;
+}
+
+h1 {
+  font-family: "Lobster", sans-serif;
+}
+
+.carousel-indicators [data-bs-target] {
+  box-sizing: content-box;
+  flex: 0 1 auto;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: black;
+  position: relative;
+  top: 50px;
+}
+
+#footer1 {
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.logo-ricomida {
+  font-family: "Lobster", sans-serif;
+  color: #fff;
+}
+
+.position-relative {
+  padding-top: 10%;
+}
+
+#botonfinal {
+  color: #fff;
+}
+
+footer {
+  font-family: "Lobster", sans-serif;
+  color: #fff;
+  font-size: 37px;
+  text-align: center;
+}
